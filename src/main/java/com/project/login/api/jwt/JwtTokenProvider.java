@@ -1,6 +1,6 @@
 package com.project.login.api.jwt;
 
-import com.project.login.api.v1.dto.response.UserResponseDto;
+import com.project.login.api.dto.response.UserResponseDto;
 import io.jsonwebtoken.*;
 import io.jsonwebtoken.io.Decoders;
 import io.jsonwebtoken.security.Keys;
